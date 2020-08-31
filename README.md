@@ -1,5 +1,4 @@
 # hello-world
-just another repository
 Hey there
 
 Been an amazing journey 
